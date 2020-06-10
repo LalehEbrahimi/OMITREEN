@@ -81,9 +81,9 @@
 #### Date: 10-06-2020
 
 #### Topics: 
-
+ * Introduction analysis microarray datasets by Affymetrix Transcriptome Analysis Console(TAC) software and R programming language for future workshops.(5 minutes) 
 
 #### Present Members: 
-
+ * Laleh Ebrahimi
 
 #### Decisions: 
